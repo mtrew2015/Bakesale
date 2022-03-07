@@ -54,7 +54,6 @@ class DealDetail extends React.Component {
 
 const styles = StyleSheet.create({
   deal: {
-    marginHorizontal: 12,
     marginTop: 50,
   },
   image: {
@@ -103,6 +102,7 @@ const styles = StyleSheet.create({
     marginBottom: 5,
     color: '#22f',
     fontWeight: 'bold',
+    marginLeft: 10,
   },
 });
 
